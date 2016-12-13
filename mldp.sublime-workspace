@@ -1,0 +1,805 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"val",
+				"values"
+			],
+			[
+				"rowdi",
+				"rowDicts"
+			],
+			[
+				"row",
+				"rowDict"
+			],
+			[
+				"key",
+				"key_string"
+			],
+			[
+				"con",
+				"connect_to_mysql"
+			],
+			[
+				"stop",
+				"stop_consonant"
+			],
+			[
+				"base_",
+				"base_path"
+			],
+			[
+				"mp3",
+				"mp3_file"
+			],
+			[
+				"path",
+				"pathIn"
+			],
+			[
+				"all",
+				"all_words"
+			],
+			[
+				"st",
+				"stat_dict"
+			],
+			[
+				"line",
+				"line_in"
+			],
+			[
+				"cl",
+				"clean_line"
+			],
+			[
+				"stat",
+				"stats"
+			],
+			[
+				"str",
+				"stringOut"
+			],
+			[
+				"remove",
+				"removePuncsFromString"
+			],
+			[
+				"imp",
+				"importTxt"
+			],
+			[
+				"show",
+				"show_what"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"time",
+				"timevalue"
+			],
+			[
+				"ex",
+				"expire_time"
+			],
+			[
+				"orde",
+				"order_time"
+			],
+			[
+				"or",
+				"order_time"
+			],
+			[
+				"id",
+				"idStudent"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"from",
+				"fromPath"
+			],
+			[
+				"move",
+				"moveFilesFromDirToDir"
+			],
+			[
+				"to",
+				"toDir"
+			],
+			[
+				"SK",
+				"SKIPPED_ISVF"
+			],
+			[
+				"In",
+				"INNER"
+			],
+			[
+				"ski",
+				"SKIPPED_REASON"
+			],
+			[
+				"mkv",
+				"mkvSrtFiles"
+			],
+			[
+				"vide",
+				"videoCatcher"
+			],
+			[
+				"v",
+				"videoFile"
+			],
+			[
+				"cour",
+				"courseID"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"markdown preview",
+				"Strapdown.js Markdown: Preview in Sublime Text"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"Project Manager: Open Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"laun",
+				"Markmon launch"
+			],
+			[
+				"markdow",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"lau",
+				"Markmon launch"
+			],
+			[
+				"open p",
+				"Project Manager: Open Project"
+			],
+			[
+				"remove pr",
+				"Project Manager: Remove Project"
+			],
+			[
+				"add",
+				"Project Manager: Add Project"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"add proje",
+				"Project Manager: Add Project"
+			],
+			[
+				"p",
+				"Project Manager"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/m/Desktop/imageLinks.html",
+		"/Volumes/Data/_P/code/djProjects/rest/src/snippets/views.py",
+		"/Volumes/Data/_P/code/djProjects/rest/src/db.sqlite3",
+		"/Volumes/Data/_P/code/djProjects/rest/src/snippets/urls.py",
+		"/Volumes/Data/_P/code/djProjects/rest/src/manage.py",
+		"/Volumes/Data/_P/code/djProjects/rest/rest.sublime-project",
+		"/Volumes/Data/_P/code/work/jiong-config/SDK/choice_gen.py",
+		"/Volumes/Data/_P/mData/_RawASS/fromM001/Classic/[乔布斯传].Jobs.2013.BluRay.720p.x264.AC3.2Audios-CMCT.ass",
+		"/Volumes/Data/_P/doc/instock/jiong/import_templates/_sqldata/131/jiong_2016-11-24.sql",
+		"/usr/local/lib/python2.7/site-packages/MySQLdb/connections.py",
+		"/Volumes/Data/_P/doc/a.md",
+		"/Users/m/Documents/career.exportedFavorites",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/Lib/StringKernel.py",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/Lib/IRREGULAR_VERB.py",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/_features/mediaProcess/mergeAudioFiles.py",
+		"/Users/m/convertQmkv.php",
+		"/Users/m/Documents/card/07-11-2016/out/Fresh.Off.the.Boat.S01E08.720p.HDTV.X264-DIMENSION.[17.01-26.48].[wechat].ass",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/rawData/input.txt",
+		"/Users/m/Documents/card/07-11-2016/out/s.ass",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/UniqueWord.py",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/Lib/FileKernel.py",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/WordFrenquency.py",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/outData/words_stat_out.txt",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/rawData/Listenning.txt",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/outData/all_words.txt",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/Lib/NetworkKernel.py",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/outData/uniqueWords.txt",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/Lib/autoCTI.py",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/outData/uniqueWords_count.txt",
+		"/Volumes/Data/_P/code/python/pythonProduct/product/Lib/SomeDayMaybe.py",
+		"/Users/m/Documents/card/07-11-2016/out/Fresh.Off.the.Boat.S01E01.720p.HDTV.X264-DIMENSION.[11.85-12.35].ass",
+		"/Volumes/Data/_P/code/python/noUIBrowser/src/Lib/kernel/file_core.py",
+		"/Volumes/Data/_P/code/python/noUIBrowser/browser",
+		"/Volumes/Data/_P/code/python/noUIBrowser/DecisionTree.md",
+		"/Users/m/Desktop/henryThinkingInPython/product/rawData/input.txt",
+		"/Users/m/cloud/mnt/jiong_share/Curriculum Development/CET4 Listening/真题听力音频/CD1/02-赠 CET-4 新题型听力特训10套题MP3+字幕/02 第2章  长对话/长对话Test 1.lrc",
+		"/Users/m/Desktop/henryThinkingInPython/product/Lib/FileKernel.py",
+		"/Users/m/Desktop/henryThinkingInPython/product/Lib/StringKernel.py",
+		"/Users/m/Desktop/SHJFZ_vid_link/Index/Tables/DataList-12.iwa",
+		"/Users/m/Desktop/SHJFZ_vid_link/Index/Document.iwa",
+		"/Users/m/Desktop/SHJFZ_vid_link.csv",
+		"/Volumes/Data/_P/code/x/UI/FeedSysRealm/Podfile",
+		"/Users/m/Desktop/untitled.html",
+		"/Volumes/Data/_P/code/x/UI/FeedSys/FeedSys/Info.plist",
+		"/Users/m/cloud/mnt/jiong_share/Curriculum Development/CD/CD1/01-CET-4 真题听力MP3+字幕/2014年12月四级真题（第1套）.lrc",
+		"/Users/m/cloud/mnt/jiong_share/Curriculum Development/CD/CD1/01-CET-4 真题听力MP3+字幕/2015年6月四级真题（第1套）.lrc",
+		"/Users/m/cloud/mnt/jiong_share/Curriculum Development/CD/CD1/02-赠 CET-4 新题型听力特训10套题MP3+字幕/02 第2章  长对话/长对话Test 1.lrc",
+		"/Users/m/cloud/mnt/jiong_share/Curriculum Development/CD/CD1/02-赠 CET-4 新题型听力特训10套题MP3+字幕/01 第1章  短篇新闻/短篇新闻Test 1.lrc",
+		"/Users/m/Desktop/server.js",
+		"/Users/m/Desktop/jiong_local_dev.conf",
+		"/Users/m/Desktop/tier/v.html",
+		"/Users/m/Desktop/v2.html",
+		"/Users/m/Desktop/video.html",
+		"/Volumes/Data/_P/code/sql/amazon.sql",
+		"/Users/m/djProjects/djb/djbook/apps/books/admin.py",
+		"/Users/m/djProjects/djb/djbook/djbook/urls.py",
+		"/work/src/jiong-config/SDK/rawData/grammar/test.txt",
+		"/Users/m/Desktop/stylesheets/style.css",
+		"/Users/m/Documents/all_videos.csv",
+		"/Users/m/djProjects/djb/djbook/apps/snippets/urls.py",
+		"/Users/m/Desktop/settings.jar",
+		"/work/src/SDK/InstantAPI/rawData/grammar/test.txt",
+		"/Users/m/Desktop/Workbook4.csv",
+		"/work/src/SDK/InstantAPI/Lib/CallAPI.py",
+		"/work/src/SDK/InstantAPI/main.py",
+		"/work/src/SDK/InstantAPI/format.py",
+		"/work/src/SDK/InstantAPI/rawData/grammar/format.py",
+		"/work/src/SDK/autoGrammarTest.py",
+		"/Users/m/djProjects/djb/djbook/apps/books/tests.py",
+		"/Users/m/Desktop/a.txt",
+		"/Users/m/Desktop/cardTranslation.md",
+		"/work/src/service/apps/course/admin.py",
+		"/Users/m/djProjects/djb/djbook/apps/books/models.py",
+		"/Users/m/djProjects/djb/djbook/djbook/settings.py",
+		"/Users/m/djProjects/djb/djbook/apps/books/apps.py",
+		"/Users/m/djProjects/djb/djbook/apps/books/views.py",
+		"/Users/m/djProjects/djb/djbook/djbook/templates/search_form.html",
+		"/Users/m/djProjects/djb/djbook/djbook/views.py",
+		"/Users/m/djProjects/djb/djbook/djbook/templates/contact_form.html",
+		"/Users/m/djProjects/djb/djbook/forms.py",
+		"/Users/m/djProjects/djb/djbook/djbook/forms.py",
+		"/work/src/ta/fe/src/page/account/login/login.html",
+		"/Users/m/djProjects/djb/djbook/apps/books/urls.py",
+		"/Users/m/djProjects/djb/djbook/books/templates/search_form.html",
+		"/Users/m/djProjects/djb/djbook/books/templates/search_results.html",
+		"/Users/m/djProjects/djb/djbook/books/views.py",
+		"/Users/m/Desktop/python.py",
+		"/Users/m/Desktop/config.atloc",
+		"/Volumes/Data/_P/code/java/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/activities/filters/FilterHighLtscVendorActivity.java",
+		"/Volumes/Data/_P/code/java/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/VendorPerformance.java",
+		"/Volumes/Data/_P/code/java/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/VendorDetail.java",
+		"/Volumes/Data/_P/code/java/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/activities/RankVendorsInTheTierByStatusActivity.java",
+		"/Volumes/Data/_P/code/java/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/activities/PopulateLtscCutoffBufferActivity.java",
+		"/Volumes/Data/_P/code/java/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/activities/filters/FilterUnavailableVendorsActivity.java",
+		"/Volumes/Data/_P/code/java/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/activities/filters/FilterPalletVendorsActivity.java",
+		"/Volumes/Data/_P/code/java/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/activities/filters/FilterVendorsForNypCapabilityActivity.java",
+		"/Volumes/Data/_P/code/java/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/activities/RankByLtscWithFallbacksActivity.java",
+		"/Users/m/djProjects/djb/djbook/views.py",
+		"/Users/m/djProjects/polls/mysite/polls/urls.py",
+		"/Users/m/djProjects/polls/urls.py",
+		"/Users/m/Desktop/Django.webloc",
+		"/Volumes/Data/_P/code/java/amazonGit/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/SimpleVendorSelectionContext.java",
+		"/Volumes/Data/_P/code/java/amazonGit/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/strategies/VendorSelectionVersionThreeStrategy.java",
+		"/Volumes/Data/_P/code/java/amazonGit/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/InboundSourceSelection.java",
+		"/Volumes/Data/_P/code/java/amazonGit/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/VendorDetail.java",
+		"/Volumes/Data/_P/code/java/amazonGit/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine/VendorSelectionContext.java",
+		"/Volumes/Data/_P/code/python/django/dj/readit/readit/views.py",
+		"/www/https/yufa/wechat/pay/native.php",
+		"/www/https/yufa/yufa/wechat/lib/WxPay.Api.php",
+		"/Volumes/Data/_P/mData/FileData/xmls/k.xml",
+		"/Users/m/Desktop/homePay.php",
+		"/www/https/yufa/application/views/myview.php",
+		"/Volumes/Data/_P/doc/inbox/pydownloadCoding/usTV.py",
+		"/www/https/yufa/application/config/autoload.php",
+		"/www/https/yufa/system/helpers/url_helper.php",
+		"/www/https/yufa/application/views/myview3.php",
+		"/www/https/yufa/index.php",
+		"/www/https/yufa/wechat/pay/WxPay.NativePay.php",
+		"/Volumes/Data/_P/code/githubInbox/someecards.com-downloader/someecards.com-downloader.py",
+		"/Users/m/Desktop/Wechatpay.php",
+		"/www/https/yufa/application/config/config.php",
+		"/www/https/yufa/application/controllers/Api.php",
+		"/www/https/yufa/application/views/myview2.php",
+		"/www/https/yufa/application/libraries/Mylib.php",
+		"/Users/m/Desktop/pay.php",
+		"/Volumes/Data/_P/code/php/_jiongbook/yufa/application/libraries/Mobile-Detect/export/exportToJSON.php",
+		"/www/https/yufa/application/controllers/Me.php",
+		"/Volumes/Data/_P/code/_inbox/try.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Volumes/Data/_P/code/java/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine",
+			"/Volumes/Data/_P/code/java/amazonGit/VendorSelectionSourcingEngine/src/com/amazon/ipc/sourcing/engine",
+			"/www/https/yufa/application",
+			"/Volumes/Data/_P/code/php/_jiongbook/yufa/",
+			"/Volumes/Data/_P/code/php/_jiongbook/yufa/system/libraries",
+			"/Volumes/Data/_P/code/php/_jiongbook/yufa/application",
+			"/Volumes/Data/_P/code/php/_jiongbook/yufa/wechat",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"APIView",
+			"format",
+			"print",
+			"`, `",
+			"rip",
+			"blend",
+			"bland",
+			"feedback",
+			"map",
+			"save_lines_to_path",
+			"files",
+			"began",
+			"begin",
+			"/",
+			"looked",
+			"headCard.fV",
+			"utf",
+			"wordfile",
+			"fromID",
+			"mp3",
+			"string",
+			"print",
+			"\" checked><a id=\"ed2k_LkVJ\" href=\"",
+			"\t",
+			"snippet",
+			"api_view",
+			"serach",
+			"filter",
+			"serializers",
+			"Serializer",
+			"html",
+			"rowDict",
+			"pathIn",
+			"stringOut",
+			"value",
+			"\"",
+			"split",
+			"print",
+			"BookResource",
+			"api",
+			"HttpResponseRedirect",
+			"form",
+			"mysite",
+			"search_form",
+			"APP",
+			"render",
+			"block",
+			"{{",
+			"receivedCount",
+			"received",
+			"AggregatedLong",
+			"aggregated",
+			"longTermSourcingCost",
+			"longtermsourcingcost",
+			"aggregatedLongTermSourcingCost",
+			"LongTermSourcingCost",
+			"rankOfLastGoodAggLtscVendor",
+			"rpc",
+			"getPriorityForStatus",
+			"sort",
+			"(false)",
+			"(true)",
+			"true",
+			"\n    ",
+			"UNAVAILABLE",
+			"FilterOutOfStockVendorsActivity",
+			"ankVendorsInTheTierByStatusActivity",
+			"RankVendorsInTheTierByStatusActivity",
+			"ugmentedLandedCost",
+			"compareByPreferredVendor",
+			"getAugmentedLandedCostAmount",
+			"augmentedLandedCostAmount",
+			"setAugmentedLandedCostAmount",
+			"augmentedLandedCostAmount",
+			"getAugmentedLandedCostAmount",
+			"alc",
+			"ALC",
+			"compareTo",
+			"compareByAlcWithFallback",
+			"css",
+			"queryorder",
+			"out_trade_no",
+			"queryorder",
+			"order",
+			"payorder",
+			"BeautifulSoup",
+			"payorder",
+			">wechatPay",
+			"Wechatpay",
+			"wechatpay",
+			"queryorder",
+			"BASE_URL",
+			"base_url",
+			"Mobile Detect",
+			"APPPATH",
+			"TopLogger",
+			"data",
+			"NotifyProcess",
+			"current",
+			"Y-m-d",
+			"date('Y-m-d')",
+			"Y-m-d'",
+			"time",
+			"tie",
+			"user_id",
+			"ajax",
+			"response",
+			"db",
+			"$this->db",
+			"$_SESSION[\"user_id\"]",
+			"create_temp_usr",
+			"btn btn-default btn-code",
+			"getValidationCode",
+			"验证码已发送到手机",
+			"sign",
+			"请输入",
+			"please enter a phone number!",
+			"view",
+			"SKIPPED_PV_ISVF",
+			"LONG_TERM_SOURCING_COST",
+			"SKIPPED_LTSC",
+			"SKIPPED_PV_ISVF",
+			"SKIPPED_PV_ISV",
+			"IP.VENDOR_CODE",
+			"FROM",
+			"IP.VENDOR_CODE",
+			"年费",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\t",
+			"videoPathIn",
+			"",
+			"','",
+			"",
+			"\n",
+			"",
+			">wechatpay",
+			"wechatPay",
+			"SKIPPED_ISVF",
+			"\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 392.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "mldp.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"for",
+				"djb/djbook/djbook/forms.py"
+			],
+			[
+				"reason",
+				"VendorSkippedReason.java"
+			],
+			[
+				"views",
+				"djbook/views.py"
+			],
+			[
+				"se",
+				"mysite/mysite/settings.py"
+			],
+			[
+				"url",
+				"mysite/mysite/urls.py"
+			],
+			[
+				"native",
+				"wechat/pay/native.php"
+			],
+			[
+				"mylib",
+				"application/libraries/Mylib.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"myli",
+				"application/libraries/Mylib.php"
+			],
+			[
+				"myvi",
+				"application/views/myview.php"
+			],
+			[
+				"myl",
+				"application/libraries/Mylib.php"
+			],
+			[
+				"myv",
+				"application/views/myview.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"api",
+				"application/controllers/Api.php"
+			],
+			[
+				"sign",
+				"application/controllers/Signup.php"
+			],
+			[
+				"signup",
+				"application/controllers/Signup.php"
+			],
+			[
+				"homework",
+				"controllers/homework.php"
+			],
+			[
+				"mat",
+				"views/material_view.php"
+			],
+			[
+				"logi",
+				"application/controllers/Login.php"
+			],
+			[
+				"mysql",
+				"unix/Mac.Mysql.md"
+			],
+			[
+				"",
+				"mac/initial_mac.md"
+			],
+			[
+				"mysq",
+				"unix/Mac.Mysql.md"
+			],
+			[
+				"project",
+				"unix/django/project.overview.setting.md"
+			],
+			[
+				"etti",
+				"mac/Mac.Settings.Account.md"
+			],
+			[
+				"mac",
+				"unix/Mac.md"
+			],
+			[
+				"php5",
+				"unix/php5.md"
+			],
+			[
+				"git",
+				"unix/git.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
